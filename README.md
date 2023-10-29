@@ -1,4 +1,3 @@
-Certainly! To display a video result in your README, you can use the following format:
 
 ---
 
@@ -31,5 +30,3 @@ To give you an idea of the output, here's a sample result from our processed vid
    - Check the `video_results` folder for the processed video.
 
 ---
-
-Make sure you replace "your_video_filename.gif" with the actual name of your video if it's in GIF format. If your video isn't in GIF format, you might want to either convert it to GIF for direct embedding or, as mentioned above, provide a link to where the video can be played (like YouTube, Vimeo, etc.).
