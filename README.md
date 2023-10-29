@@ -17,7 +17,6 @@ To give you an idea of the output, here's a sample result from our processed vid
 
 Sample Video Result: https://drive.google.com/file/d/1Bt_TWh5c-upXJQq6UUFrIHicw-3bwtp7/view?usp=sharing
 
-> Note: Make sure your video is in GIF format for it to be displayed directly on GitHub's README. If it's not a GIF, consider converting it or linking to an external platform where users can view the video.
 
 ## Getting Started
 
